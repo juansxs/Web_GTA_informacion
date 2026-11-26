@@ -8,6 +8,8 @@ RAUL --> GTA VI, GTA IV, Vice City
 
 BRAIS --> 
 
-https://color.adobe.com/create/color-contrast-analyzer
 
-https://color.adobe.com/create/color-wheel
+-- RECURSOS --
+
+Color texto- fondo contraste adecuado --> https://color.adobe.com/create/color-contrast-analyzer
+Diversas funciones de paletas de colores --> https://color.adobe.com/create/color-wheel
