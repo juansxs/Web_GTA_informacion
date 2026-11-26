@@ -1,6 +1,7 @@
 body{
-    background-image:url("imagenes/gtavi.png");
+    background-image:linear-gradient(#4d5dd5, #7459cf, #9656c9, #ba52c4, #db4fbf, #ff4db7, #f95c9e, #f56a86, #ef796c, #eb8559, #e79145);
     background-repeat: no-repeat;
+    background-size: auto;
 }
 
 h1 {
