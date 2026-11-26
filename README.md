@@ -13,3 +13,8 @@ BRAIS -->
 
 Color texto- fondo contraste adecuado --> https://color.adobe.com/create/color-contrast-analyzer
 Diversas funciones de paletas de colores --> https://color.adobe.com/create/color-wheel
+
+
+IMPORTANTE !!!!
+
+ANTES DE AÑADIR / COMMITEAR NINGÚN CAMBIO HACER SIEMPRE UN PULL!!!!!!!!!!!!!
